@@ -9,6 +9,8 @@ Para instalar as dependências, execute o comando:
 
  `npm install`
  
+ > # Execução dos testes
+ 
 Para rodar os testes, execute o comando: 
 
  `npm run open`
